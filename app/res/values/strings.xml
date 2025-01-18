@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DRM ClearKey Player</string>
+    <string name="enter_url">Enter DASH MPD or M3U8 URL</string>
+    <string name="enter_key_id">Enter Key ID (if DASH)</string>
+    <string name="enter_key">Enter Key (if DASH)</string>
+    <string name="play_button">Play</string>
+</resources>
